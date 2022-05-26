@@ -38,7 +38,7 @@ body {
   margin-top: 30px;
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .item__task-wrapper {
@@ -135,7 +135,7 @@ h3 {
 }
 
 .li>.input-task {
-  width: 226px
+  width: 226px;
 }
 
 .button-delete__img {
@@ -156,12 +156,12 @@ h3 {
 
 /* Edit Task */
 .input-task {
-  display: none
+  display: none;
 }
 
 .editMode .input-task {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .editMode .label-task {
