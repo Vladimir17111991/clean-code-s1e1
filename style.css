@@ -86,7 +86,6 @@ h3 {
     border-bottom: 2px solid #333;
 }
 
-/* input[type="text"] { */
 .input-text {
     margin: 0;
     font-size: 18px;
@@ -100,7 +99,6 @@ h3 {
     color: #888;
 }
 
-/* input[type="text"]:focus { */
 .input-text:focus {
     color: #333;
 }
@@ -129,9 +127,6 @@ h3 {
     vertical-align: middle;
 }
 
-/* .li > .checkbox {
-    margin: 0 10px;
-} */
 .li>.label-task {
     padding-left: 10px;
     box-sizing: border-box;
