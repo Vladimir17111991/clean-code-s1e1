@@ -123,18 +123,14 @@ h3 {
   align-items: center;
 }
 
-.li>* {
-  vertical-align: middle;
-}
-
-.li>.label-task {
+.label-task {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
 }
 
-.li>.input-task {
+.input-task {
   width: 226px;
 }
 
